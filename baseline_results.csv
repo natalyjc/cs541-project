@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1,False Neg Rate,False Pos Rate
+Logistic Regression,0.9896,0.9884,0.9917,0.99,0.0083,0.0127
+Linear SVM,0.9938,0.9924,0.9958,0.9941,0.0042,0.0083
+Naive Bayes,0.9811,0.9952,0.9685,0.9817,0.0315,0.0051
